@@ -18,7 +18,7 @@ Se ha trabajado en la lógica del juego, representación del estado y gestión d
 
 ## 🛠️ Tecnologías
 
-- Lenguaje de programación (C / Java / Python) ← (pon el tuyo)
+- Lenguaje de programación (Python) 
 - Estructuras de datos
 - Algoritmos de búsqueda
 
